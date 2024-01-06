@@ -16,7 +16,7 @@
   },
   "servers": [
     {
-      "url": "http://localhost:5000"
+      "url": "https://impax-backend.onrender.com"
     }
   ],
   "paths": {
